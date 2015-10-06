@@ -20,7 +20,11 @@ DBアプリケーションを作成しましょう
 * 感想
 
 #課題登録／閲覧システム
-* http://localhost/~chiemi/DB2015/groupwork
+* [http://localhost/~chiemi/DB2015/groupwork](http://localhost/~chiemi/DB2015/groupwork)
+ * お茶大情報科学科の計算機室でのみ閲覧可能です。
+ * アカウントを登録してください。
+ * チームを作った場合はチームを登録してください。
 
 #前回の作品
-* http://localhost/~chiemi/DB2013/groupwork 
+* [http://localhost/~chiemi/DB2013/groupwork](http://localhost/~chiemi/DB2013/groupwork) 
+ * お茶大情報科学科の計算機室でのみ閲覧可能です。
