@@ -26,5 +26,5 @@ DBアプリケーションを作成しましょう
  * チームを作った場合はチームを登録してください。
 
 #前回の作品
-* [http://localhost/~chiemi/DB2013/groupwork](http://localhost/~chiemi/DB2013/groupwork) 
+* [http://localhost/~chiemi/DB2013/groupwork/presentation.php](http://localhost/~chiemi/DB2013/groupwork/presentation.php) 
  * お茶大情報科学科の計算機室でのみ閲覧可能です。
