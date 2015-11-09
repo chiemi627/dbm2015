@@ -14,7 +14,7 @@
 ## グループワーク
 * [グループワーク全体に関して](groupwork.md)
 * [第１回レポート](report_no1.md)
-* 第２回レポート
+* [第２回レポート](report_no2.md)
 * 第３回レポート
 * 第４回レポート
 
@@ -27,7 +27,7 @@
 | 10/20 | (休講) | |
 | 10/27 | 第３回 |[PDF](pdf/3rd.pdf) |
 | 11/3 | 第４回 | [PDF](pdf/4th.pdf) <br> [論理設計](pdf/logical_design.pdf)|
-| 11/10 | 第５回 | |
+| 11/10 | 第５回 |[RC/SQL/RA早見表](pdf/RC_SQL_RA_part1.pdf) <br> [SQLite入門](pdf/SQLite.pdf)|
 | 11/17 | 第６回 | |
 | 11/24 | 第７回 | |
 | 12/ 1 | 第８回 | |
