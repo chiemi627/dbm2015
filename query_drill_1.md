@@ -5,7 +5,9 @@
  * DBWorksViewerのデータベースに対する以下の問合せを関係論理，SQL，関係代数で書きましょう
  * 授業中の演習でやりますが、できなかったものは来週までの宿題とします。
  * どれもSQLiteで実行できます。データベースファイルは
- > ~chiemi/Sites/DB2015/groupwork.db
+``` 
+~chiemi/Sites/DB2015/groupwork.db
+```
  に置いてありますが、安全のために自分のところにコピーをして使ってください。
  ```
   % cp ~chiemi/Sites/DB2015/groupwork.db .
