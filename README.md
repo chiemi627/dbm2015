@@ -28,7 +28,7 @@
 | 10/27 | 第３回 |[PDF](pdf/3rd.pdf) |
 | 11/3 | 第４回 | [PDF](pdf/4th.pdf) <br> [論理設計](pdf/logical_design.pdf)|
 | 11/10 | 第５回 |[RC/SQL/RA早見表](pdf/RC_SQL_RA_part1.pdf) <br> [SQLite入門](pdf/SQLite.pdf)|
-| 11/17 | 第６回 |[PDF](pdf/5th.pdf)<br>[テーブルの生成・更新・削除](pdf/create_update_delete_sql.pdf) |
+| 11/17 | 第６回 |[PDF](pdf/5th.pdf)<br>[テーブルの生成・更新・削除](pdf/create_delete_update_sql.pdf) |
 | 11/24 | 第７回 | |
 | 12/ 1 | (休講) | |
 | 12/8 | 第８回 | |
