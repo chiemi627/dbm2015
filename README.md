@@ -17,6 +17,7 @@
 * [第２回レポート](report_no2.md)
 * 第３回レポート
 * 第４回レポート
+* [QandA](QandA_for_groupwork.md)
 
 ## 講義スケジュール
 
@@ -29,7 +30,7 @@
 | 11/3 | 第４回 | [PDF](pdf/4th.pdf) <br> [論理設計](pdf/logical_design.pdf)|
 | 11/10 | 第５回 |[RC/SQL/RA早見表](pdf/RC_SQL_RA_part1.pdf) <br> [SQLite入門](pdf/SQLite.pdf)|
 | 11/17 | 第６回 |[PDF](pdf/5th.pdf)<br>[テーブルの生成・更新・削除](pdf/create_delete_update_sql.pdf) |
-| 11/24 | 第７回 | |
+| 11/24 | 第７回 | SQL(集約演算) 第６回の資料を参照|
 | 12/ 1 | (休講) | |
 | 12/8 | 第８回 | |
 | 12/15 | 第９回 | |
@@ -47,4 +48,5 @@
 
 ## 問い合わせドリル
  * [ドリルその１](query_drill_1.md) (第５回の授業で実施)
- * [ドリルその2](query_drill_2.md)（第6回の授業で実施）
+ * [ドリルその２](query_drill_2.md)（第６回の授業で実施）
+ * [ドリルその３](query_drill_3.md) (第７回の授業で実施）
