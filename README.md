@@ -52,4 +52,7 @@
   * [回答例](pdf/4th_answers.pdf)
 * [ドリルその２](query_drill_2.md)（第６回の授業で実施）
   * [解答例](pdf/5th_answers.pdf)
- * [ドリルその３](query_drill_3.md) (第７回の授業で実施）
+* [ドリルその３](query_drill_3.md) (第７回の授業で実施）
+  * [解答例](pdf/6th_answers.pdf)
+* [ドリルその４](pdf/8th_questions.pdf)
+
