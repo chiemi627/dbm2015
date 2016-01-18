@@ -36,8 +36,8 @@
 | 12/15 | 第９回 | [PDF](pdf/9th.pdf), [sample data](sample.sql)|
 | 12/22 | 第10回 | [PDF](pdf/10th.pdf) [sample code](samples.tar.gz)|
 |  1/5  | (休講）| |
-|  1/12 | 第11回 | |
-|  1/19 | 第12回| |
+|  1/12 | (休講) | |
+|  1/19 | 第12回|[PDF](pdf/mvc.pdf) |
 |  1/26 | (土曜日程) | |
 |  2/ 2 | 試験 | |
 |  2/ 3 | 発表会 | |
