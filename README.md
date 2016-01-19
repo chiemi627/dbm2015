@@ -37,7 +37,7 @@
 | 12/22 | 第10回 | [PDF](pdf/10th.pdf) [sample code](samples.tar.gz)|
 |  1/5  | (休講）| |
 |  1/12 | (休講) | |
-|  1/19 | 第11回|[MVC](pdf/mvc.pdf),[正規化](pdf/normalization) |
+|  1/19 | 第11回|[MVC](pdf/mvc.pdf),[正規化](pdf/normalization.pdf) |
 |  1/26 | (土曜日程) | |
 |  2/ 2 | 試験 | |
 |  2/ 3 | 発表会 | |
