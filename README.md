@@ -56,3 +56,5 @@
   * [解答例](pdf/6th_answers.pdf)
 * [ドリルその４](pdf/8th_questions.pdf)
 
+## FuelPHPを使ってみる
+* [こちらに使い方をぼちぼち載せています](fuelphp/README.md)
