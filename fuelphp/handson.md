@@ -4,11 +4,11 @@
  * データベースはsqlite3を使います
 
 1. データベースファイルをconfig下に置く
-```
+ ```
  % cd fuel/app/config
  % cp ~chiemi/Sites/DB2015/samples/query/university_utf8.db univ.db
  % chmod 777 univ.db
-```
+ ```
  
 2. データベースの設定を fuel/app/config/db.phpに書く
  ```
