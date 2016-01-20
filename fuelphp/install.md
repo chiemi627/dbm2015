@@ -34,7 +34,7 @@
 8. ブラウザで以下のURLを開いてみてWelcomeページが出たら完了！
  http://localhost/~chiemi/courseMngr/index.php
 
-9. index.phpを省略したい時は、[.htaccess](../htaccess)ファイルをpublicディレクトリの下に
+9. index.phpを省略したい時は、[.htaccess](htaccess)ファイルをpublicディレクトリの下に
 おいてください。（mod_rewriteがapacheでインストールされている必要があります。お茶情計算機室はOK。）
 
 
