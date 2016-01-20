@@ -1,0 +1,30 @@
+
+body {
+	text-align: center;
+	background-color: #5C4033;
+}
+
+#main {
+   width: 800px;
+   margin: 0 auto;
+   margin-top: 50px;
+   margin-bottom: 100px;
+   padding-top: 30px;
+   padding-bottom: 50px;
+   text-align: center;
+   background-color: #FFEBCD;
+}
+
+#description{
+  width: 600px;
+  margin: 0 auto;
+  font-size: 10pt;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+table {
+  width: 700px;
+  background-color: #FFFFFF;
+  margin: 0 auto;
+}

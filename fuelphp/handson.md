@@ -4,13 +4,11 @@
 * データベースはsqlite3を使います
 
 1. データベースファイルをconfig下に置く
-
 ```
  % cd fuel/app/config
  % cp ~chiemi/Sites/DB2015/samples/query/university_utf8.db univ.db
  % chmod 777 univ.db
 ```
-
 2. データベースの設定を fuel/app/config/db.phpに書く
 ```
 <?php
@@ -33,21 +31,17 @@ return array(
 );
 
 ```
-
 3. 開発用のデータベース設定ファイルを消す
-
 ```
  % rm fuel/app/config/development/db.php
 ```
-
 4. プログラムをview, model, controllerに分けて書き込みます。
-
 * View : [fuel/app/views/enrollment/index.php](sample/view.php)
 * Control : [fuel/app/classes/controller/enrollment.php](sample/controller.php)
 * Model : [fuel/app/classes/model/enrollment.php](sample/model.php)
-
-5. 下記のURLを開いてみてください
+5. cssファイルをassetsフォルダにおきます
+* courseMngr.css [public/assets/css/courseMngr.css](sample/courseMngr.css)
+6. 下記のURLを開いてみてください
 * http://localhost/~chiemi/courseMngr/enrollment
-
 ## 注意
 * ~chiemi となっている所は各自のアカウントに変更してください。
