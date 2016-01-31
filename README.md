@@ -45,6 +45,7 @@
 ## 期末試験練習問題
 * [問題](pdf/exercise.pdf)
 * [回答](pdf/exercise_answer.pdf)
+ * [ER図](pdf/exercise_ERdiagram.pdf)
 ## 各講義での連絡事項
 
 ### 第４回（11/3)
