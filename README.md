@@ -40,7 +40,7 @@
 |  1/19 | 第11回|[MVC](pdf/mvc.pdf),[正規化](pdf/normalization.pdf) |
 |  1/26 | (土曜日程) | |
 |  2/ 2 | 試験 | |
-|  2/ 3 | 発表会 | |
+|  2/ 3 | 発表会 |[発表内容について](presentation.md) |
 
 ## 期末試験練習問題
 * [問題](pdf/exercise.pdf)
