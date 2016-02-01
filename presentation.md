@@ -14,7 +14,7 @@
  　* 集約演算や商演算、入れ子問合せなど難しめのものが好みです
 
 ## 発表資料
-* ~chiemi/Sites/groupwork/presentation フォルダの下に <チームID>.pptx (pdfファイルでもいいです）で各自保存してください。
+* ~chiemi/Sites/DB2015/groupwork/presentation フォルダの下に <チームID>.pptx (pdfファイルでもいいです）で各自保存してください。
 
 ## 発表順について
 * （火曜に決定します） 
