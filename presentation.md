@@ -10,10 +10,12 @@
 
 ## 発表順
 * 2月2日（試験日）にくじ引きをします
-* 9時に書かれている番号を http://localhost/~chiemi/DB2015/groupwork/presen_submit_form.php に入力してください
+* クジに書かれている番号を http://localhost/~chiemi/DB2015/groupwork/presen_submit_form.php に入力してください
 * 発表プログラムは http://localhost/~chiemi/DB2015/groupwork/presentation.php に表示されます。
 
 ## 発表内容
+* 第４回のレポート提出の説明（description）の項目にアプリケーションのURLを入力してください。
+ * 発表会プログラムに反映されます。
 * アプリの説明に加え以下の説明も入れてください
  * 問合せ文（第３回のレポートから好きなものを３つピックアップ）とその答え
  * 集約演算や商演算、入れ子問合せなど難しめのものが好みです
